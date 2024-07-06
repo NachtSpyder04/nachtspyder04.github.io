@@ -2,7 +2,7 @@
 title: Saish Karole
 subtitle: 
 email: sskarole.1504@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: site description </br> can be changed in config.yml
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://nachtspyder04.github.io # the base hostname & protocol for your site
 author:
