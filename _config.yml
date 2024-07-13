@@ -2,7 +2,7 @@
 title: Saish Karole
 subtitle: 
 email: sskarole.1504@gmail.com
-description: site description </br> can be changed in config.yml
+description: Currently pursuing B.Tech in Electronics Engineering </br> at Veermata Jijabai Technogical Institute, Mumbai
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://nachtspyder04.github.io # the base hostname & protocol for your site
 author:
@@ -17,12 +17,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/nachtspyder04
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: 
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/saish-karole/
+  Twitter: 
   Facebook:
   Slack:
 
