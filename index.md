@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Click below to download my CV
+Click below to download my Resume

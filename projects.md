@@ -16,5 +16,14 @@ nav-menu: true
         <h3>E-yantra - Astro-Tinker Robot &emsp; <a href="https://github.com/RapidRoger18/E-yantra_Astrotinker-bot" class="icon fa-github"><span class="label">Github</span></a></h3>
             <p> Constructed a Pick and Place and Line Following robot to use in an arena that represents an scenario of a space station with a team of four and implemented a single cycle RISC-V RV32I core, written in Verilog HDL that can execute C codes, compiled into hexadecimal instructions for the CPU using the RISC-V cross-compiler. We executed a Dijkstra's Algorithm written in C on the RISC-V CPU to find the shortest path between two locations in the arena and navigation was achieved by a Line following Algorithm, implementing a PID controller for the same.This was programmed on the DE0-Nano development board consisting of Intel Cyclone-IV FPGA with the help of Intel Quartus Prime Lite and Modelsim Altera </p>
         </li>   
+        <li>
+        <h3>Chisel Digital Designs &emsp; <a href="https://github.com/NachtSpyder04/chisel-digital-designs" class="icon fa-github"><span class="label">Github</span></a></h3>
+            <p> Learned Chisel HDL and its functions. Designed and verified basic digital circuits, including adders and encoders, using ScalaTest simulations. </p>
+        </li>  
+          <li>
+        <h3>Matrix Multiplication on FPGA &emsp; <a href="https://github.com/NachtSpyder04/Matrix_Multiplication_on_FPGA" class="icon fa-github"><span class="label">Github</span></a></h3>
+            <p> Implemented a matrix multiplication algorithm in Verilog HDL and a C kernel for FPGA-based hardware acceleration using Vitis IDE. Deployed the design on the Kria KV260 Vision AI Starter Kit and verified functionality and performance. </p>
+        </li>    
+
     </ul>
 </div>
