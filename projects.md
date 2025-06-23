@@ -9,7 +9,7 @@ nav-menu: true
 <div>
     <ul>
         <li>
-        <h3>RISC-V CPU &emsp; <a href="https://github.com/NachtSpyder04/RISC-V-Eklavya-23" class="icon fa-github"><span class="label">Github</span></a></h3>
+        <h3>RISC-V CPU &emsp; <a href="https://github.com/SRA-VJTI/synapse32/" class="icon fa-github"><span class="label">Github</span></a></h3>
             <p>Designed a RISC-V core supporting RV32IM extensions in Verilog HDL from scratch. This CPU was tested on UPduino 3.0 board using Yosys suite and IceStorm toolchain by successfully executing a fibonacci series by connecting output GPIOs to a Seven Segment Display.</p>
         </li> 
         <li>
