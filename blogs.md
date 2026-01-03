@@ -37,6 +37,54 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<div>
+			<img src="{% link assets/images/cache.jpeg %}" alt="" data-position="center center" />
+		</div>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Caches - The unsung hero of CPU performance.</h3>
+				</header>
+				<p>Simple Blog explaning what are Caches and why they exist in our system.</p>
+				<ul class="actions">
+					<li><a href="2025/11/11/caches.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div>
+			<img src="{% link assets/images/rl.jpeg %}" alt="" data-position="center center" />
+		</div>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3> Reinforcement Learning - letting machine learn through observation</h3>
+				</header>
+				<p>A quick overview of what Reinforcement learning actually stands for</p>
+				<ul class="actions">
+					<li><a href="2025/12/01/rl.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+		<section>
+		<div>
+			<img src="{% link assets/images/mab.png %}" alt="" data-position="center center" style="width: 600px; height: 400px;" />
+		</div>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3> Understanding the Multi armed Bandit problem</h3>
+				</header>
+				<p>An overview of the multi armed bandit framework and the algorithms that balance short-term reward with long-term learning</p>
+				<ul class="actions">
+					<li><a href="2025/12/17/mab.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	
 </section>
 
