@@ -60,7 +60,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3> Reinforcement Learning - letting machine learn through observation</h3>
+					<h3> Reinforcement Learning - letting the machine learn through observation</h3>
 				</header>
 				<p>A quick overview of what Reinforcement learning actually stands for</p>
 				<ul class="actions">
@@ -76,7 +76,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3> Understanding the Multi armed Bandit problem</h3>
+					<h3> Understanding the Multi-Armed Bandit problem</h3>
 				</header>
 				<p>An overview of the multi armed bandit framework and the algorithms that balance short-term reward with long-term learning</p>
 				<ul class="actions">
